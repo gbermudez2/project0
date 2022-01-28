@@ -20,7 +20,7 @@ public class BGstar extends Actor
     
     public void starMovement()
     {
-        setLocation(getX()-10,getY());
+        setLocation(getX()-11,getY());
     }
     
     public void offScreen()

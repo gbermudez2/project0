@@ -37,7 +37,7 @@ public class boss1 extends Actor
     
     public void hitBoss1()
     {
-        if (boss1HC >= 300)
+        if (boss1HC >= 500)
         {
             MyWorld.player1Score += 500;
             MyWorld.player2Score += 500;
